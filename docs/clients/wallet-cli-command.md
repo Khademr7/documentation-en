@@ -1,7 +1,10 @@
+
+
+
 # Wallet Commands
 
 Below, please find all types of Wallet-Cli commands：
-
+721d63b074f18d41c147e04c952ec93467777a30b6f16745bc47a8e
 - [Wallet](#wallet)
 - [Account](#account)
 - [AccountResource](#accountresource)
@@ -61,7 +64,7 @@ wallet> backupwallet
 Please input your password.
 password: 
 BackupWallet successful !!
-721d63b074f18d41c147e04c952ec93467777a30b6f16745bc47a8eae5076545
+
 ```
 ### BackupWallet2Base64
 
